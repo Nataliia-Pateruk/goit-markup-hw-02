@@ -6,9 +6,9 @@ body {
 
 h2 {
   color: #2e2f42;
-  line-height: 40px;
+  line-height: 1.11;
   font-weight: 700;
-  font-size: 0.9;
+  font-size: 36px;
   letter-spacing: 0.02em;
   text-align: center;
 }
