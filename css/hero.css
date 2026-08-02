@@ -1,4 +1,4 @@
-#hero {
+.hero {
   background-color: #2e2f42;
   color: #ffffff;
 }
@@ -6,15 +6,16 @@
   font-size: 56px;
   font-weight: 700;
   text-transform: capitalize;
-  line-height: 60px;
-  letter-spacing: 2%;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
   text-align: center;
 }
 .hero-order-button {
   background-color: #4d5ae5;
-  font-size: 16;
+  color: #ffffff;
+  font-size: 16px;
   font-weight: 500;
   text-transform: capitalize;
-  line-height: 24px;
-  letter-spacing: 4%;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }

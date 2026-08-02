@@ -1,4 +1,4 @@
-#footer {
+.footer {
   background-color: #2e2f42;
   color: #f4f4fd;
 }
@@ -6,6 +6,6 @@
   font-size: 16px;
   font-weight: 400;
   text-transform: none;
-  line-height: 24px;
-  letter-spacing: 2%;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
