@@ -19,18 +19,17 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.header-navigation:hover,
-.header-navigation:focus {
+.header-navigation a:hover,
+.header-navigation a:focus {
   color: #404bbf;
 }
 .header-address {
   font-size: 16px;
   font-weight: 400;
-  text-transform: capitalize;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.header-address:hover,
-.header-address:focus {
+.header-address a:hover,
+.header-address a:focus {
   color: #404bbf;
 }
