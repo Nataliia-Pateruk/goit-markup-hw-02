@@ -4,6 +4,8 @@
   text-transform: uppercase;
   line-height: 1.33;
   letter-spacing: 0.03em;
+}
+.header-logo {
   color: #2e2f42;
 }
 .logo.accent {
@@ -17,10 +19,18 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.header-navigation:hover,
+.header-navigation:focus {
+  color: #404bbf;
+}
 .header-address {
   font-size: 16px;
   font-weight: 400;
   text-transform: capitalize;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.header-address:hover,
+.header-address:focus {
+  color: #404bbf;
 }
