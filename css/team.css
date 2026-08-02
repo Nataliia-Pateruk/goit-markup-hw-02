@@ -1,0 +1,21 @@
+#team {
+  background-color: #f4f4fd;
+  color: #2e2f42;
+}
+
+.footer-text {
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: none;
+  line-height: 24px;
+  letter-spacing: 2%;
+}
+
+.team-list > li {
+  background-color: #fcfcfc;
+}
+
+.team-list h3,
+p {
+  text-align: center;
+}
